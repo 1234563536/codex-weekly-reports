@@ -2,6 +2,10 @@
 
 经过脱敏的 Codex 周工作记录归档。
 
+## 2026-09-18 — 2026-09-28
+
+- [阶段工作总结（Markdown）](./reports/2026-09-18_to_2026-09-28/weekly-work-log.md)
+
 ## 2026-09-14 — 2026-09-18
 
 - [详细 Markdown 报告](./reports/2026-09-14_to_2026-09-18/weekly-work-log.md)
